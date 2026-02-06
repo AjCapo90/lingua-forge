@@ -42,3 +42,11 @@ Thumbs.db
 .nx/workspace-data
 
 .angular
+
+# Supabase
+supabase/.env
+.supabase
+
+# Environment secrets (prod)
+src/environments/environment.prod.ts
+*.local.ts
