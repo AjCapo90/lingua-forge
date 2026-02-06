@@ -1,1 +1,176 @@
-/* You can add global styles to this file, and also import other style files */
+@use '@angular/material' as mat;
+
+// Custom theme colors
+$primary-palette: (
+  50: #e3f2fd,
+  100: #bbdefb,
+  200: #90caf9,
+  300: #64b5f6,
+  400: #42a5f5,
+  500: #2196f3,
+  600: #1e88e5,
+  700: #1976d2,
+  800: #1565c0,
+  900: #0d47a1,
+  contrast: (
+    50: rgba(black, 0.87),
+    100: rgba(black, 0.87),
+    200: rgba(black, 0.87),
+    300: rgba(black, 0.87),
+    400: rgba(black, 0.87),
+    500: white,
+    600: white,
+    700: white,
+    800: white,
+    900: white,
+  )
+);
+
+$accent-palette: (
+  50: #fff3e0,
+  100: #ffe0b2,
+  200: #ffcc80,
+  300: #ffb74d,
+  400: #ffa726,
+  500: #ff9800,
+  600: #fb8c00,
+  700: #f57c00,
+  800: #ef6c00,
+  900: #e65100,
+  contrast: (
+    50: rgba(black, 0.87),
+    100: rgba(black, 0.87),
+    200: rgba(black, 0.87),
+    300: rgba(black, 0.87),
+    400: rgba(black, 0.87),
+    500: rgba(black, 0.87),
+    600: rgba(black, 0.87),
+    700: rgba(black, 0.87),
+    800: white,
+    900: white,
+  )
+);
+
+// Define theme palettes
+$lingua-forge-primary: mat.m2-define-palette($primary-palette);
+$lingua-forge-accent: mat.m2-define-palette($accent-palette);
+$lingua-forge-warn: mat.m2-define-palette(mat.$m2-red-palette);
+
+// Light theme
+$lingua-forge-light-theme: mat.m2-define-light-theme((
+  color: (
+    primary: $lingua-forge-primary,
+    accent: $lingua-forge-accent,
+    warn: $lingua-forge-warn,
+  ),
+  typography: mat.m2-define-typography-config(),
+  density: 0
+));
+
+// Dark theme
+$lingua-forge-dark-theme: mat.m2-define-dark-theme((
+  color: (
+    primary: $lingua-forge-primary,
+    accent: $lingua-forge-accent,
+    warn: $lingua-forge-warn,
+  ),
+  typography: mat.m2-define-typography-config(),
+  density: 0
+));
+
+// Include core styles
+@include mat.core();
+
+// Apply light theme by default
+@include mat.all-component-themes($lingua-forge-light-theme);
+
+// Dark mode
+.dark-theme {
+  @include mat.all-component-colors($lingua-forge-dark-theme);
+}
+
+// Global styles
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+body {
+  background-color: #fafafa;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.dark-theme body {
+  background-color: #303030;
+  color: white;
+}
+
+// Utility classes
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mt-1 { margin-top: 8px; }
+.mt-2 { margin-top: 16px; }
+.mt-3 { margin-top: 24px; }
+.mt-4 { margin-top: 32px; }
+
+.mb-1 { margin-bottom: 8px; }
+.mb-2 { margin-bottom: 16px; }
+.mb-3 { margin-bottom: 24px; }
+.mb-4 { margin-bottom: 32px; }
+
+.p-1 { padding: 8px; }
+.p-2 { padding: 16px; }
+.p-3 { padding: 24px; }
+.p-4 { padding: 32px; }
+
+// Card style
+.card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.dark-theme .card {
+  background: #424242;
+}
+
+// Flex utilities
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-1 { gap: 8px; }
+.gap-2 { gap: 16px; }
+.gap-3 { gap: 24px; }
