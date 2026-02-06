@@ -1,0 +1,8 @@
+[build]
+  command = "npx nx build lingua-forge --configuration=production"
+  publish = "dist/lingua-forge/browser"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
