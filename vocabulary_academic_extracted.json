@@ -1,0 +1,7418 @@
+{
+  "source": "Academic Vocabulary in Use",
+  "total": 1041,
+  "vocabulary": [
+    {
+      "term": "(in) (the) light of",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "a few",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "a great deal",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "a little",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "a wide range",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "abstract",
+      "units": [
+        4,
+        50
+      ],
+      "priority": 1
+    },
+    {
+      "term": "accident",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "accidental",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "accidentally",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "accommodate",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "account for",
+      "units": [
+        3,
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "acknowledge",
+      "units": [
+        17,
+        23,
+        49
+      ],
+      "priority": 1
+    },
+    {
+      "term": "adapt",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "administration",
+      "units": [
+        14,
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "advisor",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "affect",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "almost",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "alternative",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "amount",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "analysis",
+      "units": [
+        15,
+        31
+      ],
+      "priority": 1
+    },
+    {
+      "term": "analyze",
+      "units": [
+        3,
+        24
+      ],
+      "priority": 1
+    },
+    {
+      "term": "analyze a sample",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "animated",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "apparent",
+      "units": [
+        4,
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "appreciate",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "approach",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "argue",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "argue against",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "article",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "artificial",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "as a result of",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "as a whole",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "as opposed to",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "as regards",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "aspect",
+      "units": [
+        2,
+        33
+      ],
+      "priority": 1
+    },
+    {
+      "term": "assemble",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "assessment",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "assign",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "assignment",
+      "units": [
+        15,
+        20,
+        22
+      ],
+      "priority": 1
+    },
+    {
+      "term": "associate (with)",
+      "units": [
+        12,
+        14,
+        43
+      ],
+      "priority": 1
+    },
+    {
+      "term": "assumption",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "at the same time",
+      "units": [
+        13,
+        39
+      ],
+      "priority": 1
+    },
+    {
+      "term": "at this stage",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "atmosphere",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "attempt",
+      "units": [
+        1,
+        3,
+        15,
+        50
+      ],
+      "priority": 1
+    },
+    {
+      "term": "attend to",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "attention",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "attitude",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "bar chart",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "basically",
+      "units": [
+        1,
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "basis",
+      "units": [
+        15,
+        33
+      ],
+      "priority": 1
+    },
+    {
+      "term": "battle",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "be",
+      "units": [
+        12,
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "benefit",
+      "units": [
+        11,
+        33
+      ],
+      "priority": 1
+    },
+    {
+      "term": "bit",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "book",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "bulk",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "by chance",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "cafeteria",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "candidate",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "career",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "carry out",
+      "units": [
+        3,
+        41
+      ],
+      "priority": 1
+    },
+    {
+      "term": "case",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "change",
+      "units": [
+        12,
+        45
+      ],
+      "priority": 1
+    },
+    {
+      "term": "channel",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "character",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "characteristic",
+      "units": [
+        1,
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "characteristics/features",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "charge",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "check",
+      "units": [
+        8,
+        41
+      ],
+      "priority": 1
+    },
+    {
+      "term": "clarification",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "classify",
+      "units": [
+        3,
+        42
+      ],
+      "priority": 1
+    },
+    {
+      "term": "clearly",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "collate",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "college",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "combine",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "common",
+      "units": [
+        4,
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "common practice",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "comparatively",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "complex",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "concrete",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "conduct",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "conserve",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "considerable",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "considerably",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "consult",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "consumption",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "contact",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "couple",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "credit",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "deadline",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "debate",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "debate surrounding",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "definitely",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "demonstrate",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "depart",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "develop a way",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "differ",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "different",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "difficult",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "discern",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "discover",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "discuss",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "discussion",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "distinct",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "divide",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "drawback",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "due to",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "EAP",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "economic",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "effect",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "effect a change",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "effects",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "elective",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "electronically",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "element",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "elucidate",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "emerge",
+      "units": [
+        14,
+        24,
+        47
+      ],
+      "priority": 1
+    },
+    {
+      "term": "emphasis",
+      "units": [
+        3,
+        15,
+        32
+      ],
+      "priority": 1
+    },
+    {
+      "term": "emphasise",
+      "units": [
+        3,
+        14,
+        31,
+        32
+      ],
+      "priority": 1
+    },
+    {
+      "term": "encouraging",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "engage in debate",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "English-medium",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "enhance",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "enormous",
+      "units": [
+        7,
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "enrol",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "entry requirement",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "environment",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "equal opportunities policy",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "equip",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "erase information",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "especially",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "essay",
+      "units": [
+        15,
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "essentially",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "establish",
+      "units": [
+        3,
+        12,
+        24,
+        35
+      ],
+      "priority": 1
+    },
+    {
+      "term": "estimate",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "eventually",
+      "units": [
+        5,
+        50
+      ],
+      "priority": 1
+    },
+    {
+      "term": "examination",
+      "units": [
+        13,
+        24
+      ],
+      "priority": 1
+    },
+    {
+      "term": "examine",
+      "units": [
+        3,
+        12,
+        24
+      ],
+      "priority": 1
+    },
+    {
+      "term": "exceeding",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "excess",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "excessive",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "exclude",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "explain",
+      "units": [
+        3,
+        32
+      ],
+      "priority": 1
+    },
+    {
+      "term": "explain a phenomenon",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "explicit",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "explicitly",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "exploration",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "explore",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "export",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "expose",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "faculty",
+      "units": [
+        18,
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fair",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "falsify results",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "few",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fewer and fewer",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "file (computer)",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fill",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "financial",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "financial guarantee",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "firmly",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "for the most part",
+      "units": [
+        13,
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "for this reason",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fraternity",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "frequently",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "freshman",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "from the point of view of",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "generally",
+      "units": [
+        5,
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "generate",
+      "units": [
+        1,
+        30
+      ],
+      "priority": 1
+    },
+    {
+      "term": "generate energy",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "get in",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "give a description",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "glaring",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "glossary",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "go against",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "go back over",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "go into",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "go on to",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "go over",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "graduate student",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "great",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "ground",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "halfway point",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "hardly ever",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "hardware",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "have a shot at",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "heated",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "heated debate",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "holiday",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "hypotheses",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "hypothesis",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "idea",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "identification",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "identify",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "ideology",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "illuminate",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "illuminating",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "illustrate",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "implication",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "importance",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in ... terms",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in a variety of ways",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in accordance with",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in addition to",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in comparison with",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in conjunction with",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in contrast to",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in economic terms",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in excess of",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in general",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in line with",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in more/greater detail",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in most respects",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in other words",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in particular",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in passing",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in respect of",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in some ways",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "interim",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "interpretation",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "invalidate results",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "investigate",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "investigate a phenomenon",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "investigation",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "involve",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "issue",
+      "units": [
+        8,
+        40
+      ],
+      "priority": 1
+    },
+    {
+      "term": "lack",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "large",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "largely",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "lecture",
+      "units": [
+        15,
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "lecture theatre",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "lecturer",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "less and less",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "librarian",
+      "units": [
+        18,
+        21
+      ],
+      "priority": 1
+    },
+    {
+      "term": "library",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "list",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "list the main causes",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "little",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "look",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "look back over",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "loosely",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "loosely based",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "lose a battle",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "lose contact",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "mainly",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "mainly based",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "maintain a united front",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "maintenance contact",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "make up",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "memorise",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "mention",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "mind",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "model",
+      "units": [
+        2,
+        31
+      ],
+      "priority": 1
+    },
+    {
+      "term": "monitor",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "more",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "more or less",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "mostly",
+      "units": [
+        1,
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "motivation",
+      "units": [
+        15,
+        30,
+        35
+      ],
+      "priority": 1
+    },
+    {
+      "term": "motive",
+      "units": [
+        15,
+        48
+      ],
+      "priority": 1
+    },
+    {
+      "term": "nature",
+      "units": [
+        1,
+        2,
+        42
+      ],
+      "priority": 1
+    },
+    {
+      "term": "observe",
+      "units": [
+        12,
+        32,
+        41
+      ],
+      "priority": 1
+    },
+    {
+      "term": "observe a phenomenon",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "observer",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "occur",
+      "units": [
+        8,
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "offer",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "offer a place",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "office hours",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "on behalf of",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "on the basis of",
+      "units": [
+        13,
+        34
+      ],
+      "priority": 1
+    },
+    {
+      "term": "on the other hand",
+      "units": [
+        13,
+        44
+      ],
+      "priority": 1
+    },
+    {
+      "term": "on the whole",
+      "units": [
+        5,
+        13,
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "one of",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "onslaught",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "opposed to",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "opt for",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "optional",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "overcome",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "overdue",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "part",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "particular",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "particular significance",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "partly based",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "percentage",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "perhaps",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "permanent",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "phase",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "pivotal",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "pivotal role",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "play a role",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "point",
+      "units": [
+        15,
+        33
+      ],
+      "priority": 1
+    },
+    {
+      "term": "point up",
+      "units": [
+        6,
+        32
+      ],
+      "priority": 1
+    },
+    {
+      "term": "pose",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "possibly",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "potential",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "practice",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "precise",
+      "units": [
+        4,
+        25
+      ],
+      "priority": 1
+    },
+    {
+      "term": "precisely",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "preference",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "preliminary",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "present",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "presentation",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "primarily",
+      "units": [
+        5,
+        23
+      ],
+      "priority": 1
+    },
+    {
+      "term": "primary",
+      "units": [
+        1,
+        23
+      ],
+      "priority": 1
+    },
+    {
+      "term": "principal",
+      "units": [
+        4,
+        36
+      ],
+      "priority": 1
+    },
+    {
+      "term": "problem",
+      "units": [
+        15,
+        47
+      ],
+      "priority": 1
+    },
+    {
+      "term": "process",
+      "units": [
+        15,
+        47
+      ],
+      "priority": 1
+    },
+    {
+      "term": "professor",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "profile",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "progress",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "project",
+      "units": [
+        15,
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "proportion",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "provide",
+      "units": [
+        3,
+        24
+      ],
+      "priority": 1
+    },
+    {
+      "term": "provide a (brief) summary of",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "provide a sample",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "provide feedback",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "purpose",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "put",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "put emphasis",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "qualification",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "qualitative",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "quantifiable",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "quantify",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "quantitative",
+      "units": [
+        1,
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "quantitatively",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "quantity",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "reason",
+      "units": [
+        15,
+        30
+      ],
+      "priority": 1
+    },
+    {
+      "term": "reasonable",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "reboot",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "recent",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "save",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "scholarship",
+      "units": [
+        17,
+        28
+      ],
+      "priority": 1
+    },
+    {
+      "term": "school",
+      "units": [
+        18,
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "search",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "seminar",
+      "units": [
+        18,
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "senior",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "set",
+      "units": [
+        8,
+        22
+      ],
+      "priority": 1
+    },
+    {
+      "term": "solution",
+      "units": [
+        12,
+        45
+      ],
+      "priority": 1
+    },
+    {
+      "term": "somewhat",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "sophomore",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "sorority",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "specific",
+      "units": [
+        11,
+        44
+      ],
+      "priority": 1
+    },
+    {
+      "term": "sports",
+      "units": [
+        12,
+        25
+      ],
+      "priority": 1
+    },
+    {
+      "term": "start",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "subject",
+      "units": [
+        2,
+        21
+      ],
+      "priority": 1
+    },
+    {
+      "term": "submit",
+      "units": [
+        17,
+        22
+      ],
+      "priority": 1
+    },
+    {
+      "term": "take issue with",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "theme",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "theory",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "there’s no way",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "thoroughly",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "time-consuming",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "tip the scales",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "to a certain extent",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "to a greater extent",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "to a lesser extent",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "to some extent",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "topic",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "vacation",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "waste energy",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "widespread",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "widespread support",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "with respect to",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "with the exception of",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "word",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "word limit",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "work",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "work on",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "work out a way",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "workshop",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "write",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "write up",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "(in) (more) detail",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "absolutely critical",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "abundant",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "accommodation",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "according to",
+      "units": [
+        32,
+        42
+      ],
+      "priority": 2
+    },
+    {
+      "term": "accumulate",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "accurate",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "achieve",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "add up",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "address",
+      "units": [
+        39,
+        40,
+        45
+      ],
+      "priority": 2
+    },
+    {
+      "term": "adjacent",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "adopt",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "advance",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "advantage",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "aggregate",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "allege",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "allow (time)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "ambiguous",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "and so forth",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "annual",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "anyway",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "apart from",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "apparently",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "appear",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "appendix",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "application",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "appropriate",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "approximate",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "approximately",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "archives",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "argument",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "arrive at an answer",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "as far as x is concerned",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "as noted",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "as time is (running) short",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "as we saw in",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "assert",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "assertion",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "at a stage",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "at first",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "at random",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "at the moment",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "attack",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "attain",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "attribute to",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "autonomy",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "average",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "award",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "awareness",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "background",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bank account",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "base",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "based",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "behaviour",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bell curve",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "biased",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "body",
+      "units": [
+        24,
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "borrowing rights",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "brainstorm",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "brief",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "by heart",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "calculate",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "call on",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "catalogue",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cause",
+      "units": [
+        30,
+        41
+      ],
+      "priority": 2
+    },
+    {
+      "term": "century",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "chain",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cite",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "claim",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "clarify",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "clear",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "coherently",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "collaborative",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "collect",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "column",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "come back",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "come down",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "come into contact",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "come to a conclusion",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "come to light",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "comment",
+      "units": [
+        32,
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "common knowledge",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "communicate",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "comprehend",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "concurrent",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "connotation",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "consequence",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "consider",
+      "units": [
+        24,
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "consist",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "consistent",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "constitute",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "construct",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "contemporary",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "contention",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "continuous",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "contrary",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "contribute",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "contribution",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "convince",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "convincing",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "copy",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "correlation",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cost",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "course",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "creative",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "criterion",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "critical",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cross",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cross-section",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "current",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "CV",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "daily",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "data",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "deal",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "decede",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "declare",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "decline",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "decrease",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "deduce",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "deep",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "defend",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "define",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "definition",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "degree",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "deliberate",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "demonstration",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "denote",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "deprecate",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "derive",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "description",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "determine",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "deviate from",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "directly",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "disadvantage",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "discipline",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "discourse",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "discrete",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "dissertation",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "distance",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "distant",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "distinction",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "distinguish",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "distort",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "distribution",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "diversity",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "document",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "double",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "draft",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "draw",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "draw a conclusion",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "draw conclusions",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "draw mind maps",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "drop",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "duration",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "earlier",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "economical",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "elements",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "eliminate",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "elsewhere",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "emergence",
+      "units": [
+        29,
+        47
+      ],
+      "priority": 2
+    },
+    {
+      "term": "encounter",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "enter your username",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "entitlement",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "era",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "essence",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "ethical",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "evaluation",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "even",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "eventual",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "evidence",
+      "units": [
+        24,
+        37,
+        43,
+        49
+      ],
+      "priority": 2
+    },
+    {
+      "term": "evident",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "evoke",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "evolve",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "exact",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "exceed",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "exist",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "expenditure",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "explain by the fact that",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "explanation",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "express ideas",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "extension",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "extensive",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "extent",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "extra-curricular activities",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "extreme",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "face-to-face",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "facilitate",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "facilitation",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fact",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "factor",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fall",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fall below",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "feedback",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "feel free",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "field study",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "figure",
+      "units": [
+        25,
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "final",
+      "units": [
+        29,
+        50
+      ],
+      "priority": 2
+    },
+    {
+      "term": "finally",
+      "units": [
+        39,
+        50
+      ],
+      "priority": 2
+    },
+    {
+      "term": "finals",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "finite",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "first",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "first draft",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "firstly",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "flowchart",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fluctuate",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "focus on",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "following",
+      "units": [
+        39,
+        50
+      ],
+      "priority": 2
+    },
+    {
+      "term": "for example",
+      "units": [
+        24,
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "for instance",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "former",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fraction",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "further",
+      "units": [
+        35,
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "furthermore",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "generally associated with",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "getting back to",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "give",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "give an example",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "give credit",
+      "units": [
+        23,
+        49
+      ],
+      "priority": 2
+    },
+    {
+      "term": "give rise to",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "go back",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "go blank",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "go round",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "go through",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "goal",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "grant",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "graphic",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "graphics",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "ground-breaking",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "grounding",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "grow",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "growth",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "hall of residence",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "handout",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "have",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "have (sth) as a goal",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "have an influence on",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "having said that",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "highlight",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "histogram",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "hit",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "hit the send button",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "hold",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "horizontal axis",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "humanities",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "hybrid",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "hypothesis-based",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "immature",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "impact",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "impartial",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "implicity",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "in my opinion",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "in recent times",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "installment",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "instance",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "instigate",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "intention",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "inter-library loan",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "interest-free",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "interesting",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "interface",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "intermediate",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "interpret",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "intersect",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "introduce",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "irrational",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "it can be argued that",
+      "units": [
+        31,
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "it is worth recalling that",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "it may not be the case that",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "it would appear that",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "keep (to time)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "key",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "KISS",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "knowledge",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "label",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "largely determine",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "late",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "later",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "lay foundations",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "layer",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "learning",
+      "units": [
+        21,
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "leave",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "leave out",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "lecture notes",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "legend",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "liable",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "likelihood",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "likely",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "link",
+      "units": [
+        22,
+        43
+      ],
+      "priority": 2
+    },
+    {
+      "term": "literature",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "literature suggests",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "little-known",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "loan",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "lodging",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "logic",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "long-term loan",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "look for",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "lurk",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "magnitude",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mailing",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "main body",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "maintain",
+      "units": [
+        32,
+        48
+      ],
+      "priority": 2
+    },
+    {
+      "term": "maintenance grant",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "major",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "make a calculation",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "make a to-do list",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "make ends meet",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "make reference to",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mature",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mature student",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "maximum",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "means",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "means of communication",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "measures",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "median",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "meet",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "meet deadlines",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "meet objectives",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "merely",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "message",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mind starts to wander",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "minimum",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "miscalculate",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "misinterpret",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mission statement",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mistranslate",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mistranslation",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "misunderstand",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mnemonics",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "moderate",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "moderate discussions",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "moral",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "moreover",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "most (people) would agree",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "motivate",
+      "units": [
+        30,
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "movement",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "national debate",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "near future",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "netiquette",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "nevertheless",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "next",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "no fewer than",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "norm",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "normal distribution",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "note",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "note-taking",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "notion",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "nowadays",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "nuance (of meaning)",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "number",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "observation",
+      "units": [
+        32,
+        41
+      ],
+      "priority": 2
+    },
+    {
+      "term": "obtain",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "odd number",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "of course",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "of interest",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "omit",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "on loan",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "on top of which",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "ongoing",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "online community",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "opinion",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "order of magnitude",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "organise",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "origin",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "original",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "outcome",
+      "units": [
+        26,
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "outweigh",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "over the next few years",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "overdraft",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "parallel",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "paraphrase",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "pattern",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "per cent",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "perceptible",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "perception",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "period of time",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "personal statement",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "perspective",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "PhD committee",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "phenomena",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "phenomenon",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "philosophy",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "pie chart",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "piece of data",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "piece of evidence",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "pinpoint",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "plagiarism",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "plummet",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "point of view",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "point out",
+      "units": [
+        24,
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "portfolio",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "position",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "post a message",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "postgraduate",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "powerful",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "practice-as-research",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "precedent",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "preceding",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "prejudice",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "prejudiced",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "presumably",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "prime",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "principle",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "prioritise",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "probability",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "probability distribution",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "probably",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "profound",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "propose",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "provide an example",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "provide an explanation",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "provide that",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "provoke",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "publish",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "put forward",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "question",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "quiz",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "quotation",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "radical",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "raise",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "raise a point",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "random",
+      "units": [
+        25,
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "range",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "ratio",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "rationale",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "reach",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "reach a peak",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "react",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "reaction",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "reactionary",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "read",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "reading",
+      "units": [
+        22,
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "receipt",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "record",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "review",
+      "units": [
+        21,
+        43
+      ],
+      "priority": 2
+    },
+    {
+      "term": "revision",
+      "units": [
+        21,
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "rise",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "road",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "rote",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "say",
+      "units": [
+        24,
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "scale",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "scrutinize",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "seek",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "segment",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sequence",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "source",
+      "units": [
+        23,
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "speak",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "spring",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "standard",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "state",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "strategy",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "successive",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "take account of",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "take away",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "take into account",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "take priority over",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "take questions",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "tally",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "target",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "telling",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "temporarily",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "temporary",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "tend",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "tendency",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "tentative",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "terminology",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "thank you for listening",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "that’s all I have to say",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "the last 20 years",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "thinking",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "thought",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "thread",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "threat",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "time management",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "to what extent",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "to-do list",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "top priority",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "valuable resource",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "variable",
+      "units": [
+        25,
+        36,
+        41
+      ],
+      "priority": 2
+    },
+    {
+      "term": "vertical axis",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "viewpoint",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "virtual classroom",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "virtual learning environment",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "visually",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "vivid",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "VLE",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "volume",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "we can presume that",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "weigh",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "welcome",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "white collar",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "whole number",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "winds are blowing",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "with reference to",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "with regard to",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "x axis",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "y axis",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "abandon",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "absence",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "accompanied by",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "achieve objectives",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "acquire",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "adjust",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "advent",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "allocate",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "alter",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "amend",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "analogy",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "answer",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "apparatus",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "as we have seen",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "assume",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "at last",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "at the end",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "automate",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "blended",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bring",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "category",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "challenge",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "circumstances",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "combination",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "come up with",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "comparison",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "compatible",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "complement",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "conditions",
+      "units": [
+        41,
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "confine",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "confirm",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "conflict",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "constrain",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "consume",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "context",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "contract",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "contradiction",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "contrast",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "controlled",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "controversy",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "correlate",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "correlational",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "correspond",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "criteria",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "crucial",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "derivation",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "describe",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "design",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "develop",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "development",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "device",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "difference",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "dimension",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "diminish",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "display",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "dispose",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "disprove",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "disrupt",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "empirical",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "employ",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "equivalent",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "error",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "ethnic",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "existence",
+      "units": [
+        42,
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "expansion",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "experience",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "experiment",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "find",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "flame",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "flaw",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "flimsy",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "forthcoming",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "framework",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "fundamental",
+      "units": [
+        48,
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "gender",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "general",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "generalise",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "generation",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "give a (brief) summary of",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "gradual",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "happen",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "heading",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "hierarchy",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "homemaker",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "househusband",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "housewife",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "important",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "in a few words",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "in conclusion",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "in contrast",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "in no circumstances",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "in no way",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "in short",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "instability",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "instrument",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "integral",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "intense",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "intentional",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "inter-university",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "interaction",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "interdependence",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "interfere",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "intermarriage",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "intermittent",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "interrelated",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "interstate",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "intrinsic",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "invalidate",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "invent",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "it is not surprising that",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "it is noteworthy that",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "junior",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "laboratory",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "lastly",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "limited",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "manipulate",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "marital status",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "marked",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "mathematical",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "mediate",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "method",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "methodology",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "minimal",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "misguided",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "misinterpretation",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "mistaken",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "modify",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "multiply",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "mutual",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "natural",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "naturalistic",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "naturally",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "never (before)",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "non-repayable",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "notable",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "occupation",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "occupational",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "on balance",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "on no account",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "only",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "output",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "outside",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "overall",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "overview",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "piece together",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "pilot study",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "population",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "precis",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "procedure",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "provocation",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "put it briefly",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "quarterly",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "rather",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "ratification",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "ratify",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "recapitulate",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "recognise",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "reveal",
+      "units": [
+        43,
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "reverse",
+      "units": [
+        43,
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "rigorous",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "secure",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "select",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "semester",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "surround",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "take on a role",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "take part in",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "technique",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "the same as",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "valid",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "validity",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "variety",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "verify",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "way",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "whereas",
+      "units": [
+        44
+      ],
+      "priority": 3
+    }
+  ]
+}
