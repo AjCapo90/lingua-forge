@@ -12,6 +12,10 @@ export const appRoutes: Route[] = [
     loadComponent: () => import('./features/auth/login.component').then(m => m.LoginComponent)
   },
   {
+    path: 'voice-test',
+    loadComponent: () => import('./features/voice-test/voice-test.component').then(m => m.VoiceTestComponent)
+  },
+  {
     path: 'dashboard',
     loadComponent: () => import('./features/dashboard/dashboard.component').then(m => m.DashboardComponent),
     canActivate: [authGuard]

@@ -1,0 +1,26 @@
+# fly.toml app configuration file generated for linguaforge-claude-proxy on 2026-02-07T10:06:44+01:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'linguaforge-claude-proxy'
+primary_region = 'fra'
+
+[build]
+
+[env]
+  ALLOWED_ORIGIN = 'https://lingua-forge-app.netlify.app'
+  PORT = '3001'
+
+[http_service]
+  internal_port = 3001
+  force_https = true
+  auto_stop_machines = 'stop'
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[vm]]
+  memory = '512mb'
+  cpu_kind = 'shared'
+  cpus = 1
+  memory_mb = 512

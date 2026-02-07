@@ -50,3 +50,15 @@ supabase/.env
 # Environment secrets (prod)
 src/environments/environment.prod.ts
 *.local.ts
+
+# Large files
+*.pdf
+extracted_*.json
+vocabulary_*_extracted.json
+vocabulary_upper_partial.json
+collocations_*.json
+idioms_*.json
+phrasal_verbs_*.json
+
+# Keep only the master vocabulary file in data/
+!data/en/vocabulary_master.json
