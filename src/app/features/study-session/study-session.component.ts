@@ -250,7 +250,7 @@ type SessionPhase = 'setup' | 'exercise' | 'feedback' | 'complete';
                       <h4>💡 Missed Opportunities:</h4>
                       @for (missed of result.missedOpportunities; track missed.itemId) {
                         <div class="missed-item">
-                          <strong>"{{ missed.content }}"</strong>: {{ missed.suggestion }}
+                          {{ missed.suggestion }}
                         </div>
                       }
                     </div>
@@ -329,7 +329,7 @@ type SessionPhase = 'setup' | 'exercise' | 'feedback' | 'complete';
             }
           </mat-card-content>
           
-          <mat-card-actions align="center">
+          <mat-card-actions>
             <button mat-raised-button color="primary" (click)="exitSession()">
               Back to Dashboard
             </button>
