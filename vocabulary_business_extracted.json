@@ -1,0 +1,8769 @@
+{
+  "source": "Business Vocabulary in Use Intermediate",
+  "total": 1237,
+  "vocabulary": [
+    {
+      "term": "accept",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "admin",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "Administration)",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "aerospace",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "applicant",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "apply for",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "appoint",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "assembly line",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "asset",
+      "units": [
+        12,
+        30
+      ],
+      "priority": 1
+    },
+    {
+      "term": "automobile (AmE)",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "background",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "basic salary",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "benchmarking",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "best practice",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "beta version",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "big business",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "board",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "boardroom",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "boardroom row",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "bonus",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "boring",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "boss",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "brand name",
+      "units": [
+        15,
+        22
+      ],
+      "priority": 1
+    },
+    {
+      "term": "breakthrough",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "bug",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "bully",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "bullying",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "bureaucracy",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "business",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "business leader",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "businessman",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "businessperson",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "businesswoman",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "buyer",
+      "units": [
+        18,
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "call up",
+      "units": [
+        14,
+        47
+      ],
+      "priority": 1
+    },
+    {
+      "term": "candidate",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "capacity",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "capital",
+      "units": [
+        17,
+        32
+      ],
+      "priority": 1
+    },
+    {
+      "term": "car (BrE)",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "career ladder",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "career path",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "catalogue",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "catering",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "chairman",
+      "units": [
+        9,
+        56
+      ],
+      "priority": 1
+    },
+    {
+      "term": "chairwoman",
+      "units": [
+        9,
+        56
+      ],
+      "priority": 1
+    },
+    {
+      "term": "charity",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "churn out",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "client",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "client base",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "clientele",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "clinical trial",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "clock in",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "clock off",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "clock on",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "clock out",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "co-creation",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "collaboration",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "commerce",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "commercial (adj)",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "commission",
+      "units": [
+        5,
+        26
+      ],
+      "priority": 1
+    },
+    {
+      "term": "commute",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "commuter",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "company",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "company car",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "compensation",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "compete",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "competition",
+      "units": [
+        20,
+        25
+      ],
+      "priority": 1
+    },
+    {
+      "term": "competitor",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "component",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "concern",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "construction",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "consumer",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "contractor",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "copyright",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "corner a market",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "corporate",
+      "units": [
+        11,
+        41
+      ],
+      "priority": 1
+    },
+    {
+      "term": "corporation",
+      "units": [
+        11,
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "cost-effective",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "course",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "cover letter (AmE)",
+      "units": [
+        3,
+        53
+      ],
+      "priority": 1
+    },
+    {
+      "term": "craft industry",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "custom-built",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "customer",
+      "units": [
+        19,
+        24
+      ],
+      "priority": 1
+    },
+    {
+      "term": "customer base",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "cutting edge",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "day shift",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "deal with",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "defence (BrE)",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "degree",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "delayer",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "demanding",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "demote",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "department)",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "design",
+      "units": [
+        15,
+        21
+      ],
+      "priority": 1
+    },
+    {
+      "term": "design defect",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "design fault",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "designer",
+      "units": [
+        14,
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "develop",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "developer",
+      "units": [
+        14,
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "development",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "dismiss",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "diversified",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "donate",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "donation",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "downsize",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "downsizing",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "dull",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "e-commerce",
+      "units": [
+        11,
+        26
+      ],
+      "priority": 1
+    },
+    {
+      "term": "early retirement",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "earn",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "economy",
+      "units": [
+        13,
+        38
+      ],
+      "priority": 1
+    },
+    {
+      "term": "effective",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "efficiency",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "efficient",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "electronics",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "employ",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "employee",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "end-user",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "enter a market",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "enterprise",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "enterprise zone",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "entrepreneur",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "establish",
+      "units": [
+        10,
+        53
+      ],
+      "priority": 1
+    },
+    {
+      "term": "establishment",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "exciting",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "exec",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "executive",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fake (adj)",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fascinating",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fat cat",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "field trial",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "finance (verb)",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "finished goods",
+      "units": [
+        17,
+        22
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fire (verb)",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fire hazards",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "firm",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "first aid",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "flatter",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "flexibility",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "flexitime (BrE)",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "flextime (AmE)",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "focus group",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "food processing",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "found",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "founder",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "free enterprise",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "freelance (adj)",
+      "units": [
+        12,
+        53
+      ],
+      "priority": 1
+    },
+    {
+      "term": "freelance (noun)",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "freelancer",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fringe benefits",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "full-time job",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "fundraising",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "future-proof",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "glass ceiling",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "glut",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "go-slow",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "good with",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "goods",
+      "units": [
+        16,
+        17,
+        22
+      ],
+      "priority": 1
+    },
+    {
+      "term": "graduate (noun)",
+      "units": [
+        4,
+        54
+      ],
+      "priority": 1
+    },
+    {
+      "term": "graduate from",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "grow",
+      "units": [
+        10,
+        38
+      ],
+      "priority": 1
+    },
+    {
+      "term": "growth industry",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "halve",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "hand-made",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "handle (verb)",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "harass",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "hard",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "head (noun)",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "head (up)",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "head office",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "headhunt",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "headhunter",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "headhunting",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "headquarters (HQ)",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "health plan",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "healthcare",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "heavy industry",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "hi-tech",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "highly skilled",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "hire (verb)",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "HQ (headquarters)",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "HR (human resources)",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in charge of",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in stock",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "in-house",
+      "units": [
+        7,
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "Inc (incorporated)",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "industrial",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "industrialize",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "industry",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "innovate",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "innovation",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "innovative",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "innovator",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "input (noun)",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "interview (noun)",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "invent",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "invention",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "inventor",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "job insecurity",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "job offer",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "jobs website",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "join",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "just-in-time",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "key player",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "knowledge",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "labor union (AmE)",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "laboratory",
+      "units": [
+        14,
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "labour (BrE)",
+      "units": [
+        6,
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "labour costs",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "labour dispute",
+      "units": [
+        6,
+        63
+      ],
+      "priority": 1
+    },
+    {
+      "term": "labour leader",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "labour relations",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "labour shortage",
+      "units": [
+        6,
+        38
+      ],
+      "priority": 1
+    },
+    {
+      "term": "labour unrest",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "lay off",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "leading edge",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "leaner",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "learning curve",
+      "units": [
+        18,
+        28
+      ],
+      "priority": 1
+    },
+    {
+      "term": "leave a market",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "leisure",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "light industry",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "low-key",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "low-tech",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "Ltd (limited company)",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "magnate",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "mail survey",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "make (verb)",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "maker",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "manage",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "management",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "management)",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "manufacture",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "manufacturer",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "market",
+      "units": [
+        19,
+        20,
+        21
+      ],
+      "priority": 1
+    },
+    {
+      "term": "market forces",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "market growth",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "market leader",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "market price",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "market research",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "market share",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "market-place",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "media",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "member",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "methodical",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "model (noun)",
+      "units": [
+        18,
+        22,
+        23
+      ],
+      "priority": 1
+    },
+    {
+      "term": "moderator",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "mogul",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "motivated",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "mutual (noun)",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "nationalized",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "needs",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "night shift",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "nine-to-five",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "numerate",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "observation",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "obsolete",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "offer (verb)",
+      "units": [
+        3,
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "office",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "office worker",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "online survey",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "organized",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "out of work",
+      "units": [
+        1,
+        38
+      ],
+      "priority": 1
+    },
+    {
+      "term": "outplacement",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "output",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "outsource",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "outsourcing",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "overtime",
+      "units": [
+        2,
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "overtime ban",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "part",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "partner",
+      "units": [
+        12,
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "partnership",
+      "units": [
+        12,
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "patent",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "payroll",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "pension",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "performance",
+      "units": [
+        5,
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "perk",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "personnel",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "piracy",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "pool",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "position (noun)",
+      "units": [
+        3,
+        53
+      ],
+      "priority": 1
+    },
+    {
+      "term": "post (noun)",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "president (AmE)",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "privatize",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "proactive",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "produce",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "producer",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "product",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "production",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "productivity",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "profit (noun)",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "promotion",
+      "units": [
+        7,
+        21,
+        25
+      ],
+      "priority": 1
+    },
+    {
+      "term": "property (BrE)",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "proprietary",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "prosumer",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "prototype",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "provide",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "provider",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "provision",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "purchaser",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "qualify",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "racism",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "racist",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "term": "real estate (AmE)",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "recall (verb)",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "recruit",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "recruiter",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "recruitment",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "referee",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "reference",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "release (verb)",
+      "units": [
+        14,
+        15,
+        51
+      ],
+      "priority": 1
+    },
+    {
+      "term": "remuneration",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "repetitive",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "requirements",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "researcher",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "resign",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "responsibility",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "responsible for",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "restructure",
+      "units": [
+        7,
+        34
+      ],
+      "priority": 1
+    },
+    {
+      "term": "restructuring",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "retail",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "retire",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "retirement",
+      "units": [
+        7,
+        35
+      ],
+      "priority": 1
+    },
+    {
+      "term": "rival (noun)",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "term": "rollout",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "routine (adj)",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "royalties",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "run",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "résumé (AmE)",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "sack (BrE)",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "safe (adj)",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "salary",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "sample",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "satisfying",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "self-driven",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "self-employed",
+      "units": [
+        11,
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "self-motivated",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "self-starter",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "seller",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "semi-skilled",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "senior",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "service",
+      "units": [
+        13,
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "service sector",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "shareholder",
+      "units": [
+        12,
+        32
+      ],
+      "priority": 1
+    },
+    {
+      "term": "shift",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "shortage",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "shortlist (verb)",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "site",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "situation",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "skill",
+      "units": [
+        4,
+        53
+      ],
+      "priority": 1
+    },
+    {
+      "term": "skilled",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "sole owner",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "sole trader (BrE)",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "spare part",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "specifications",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "staff",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "standard (adj)",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "start-ups",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "state-of-the-art",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "state-owned",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "term": "steel",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "stimulating",
+      "units": [
+        2,
+        43,
+        53
+      ],
+      "priority": 1
+    },
+    {
+      "term": "stock options (AmE)",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "stocks (BrE)",
+      "units": [
+        17,
+        36
+      ],
+      "priority": 1
+    },
+    {
+      "term": "stoppage",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "store (verb)",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "street vendor",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "strike (noun)",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "supplier",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "support staff",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "surplus",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "term": "survey",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "swipe card",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "systematic",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "tailor-made",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "take part in",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "talented",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "team player",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "technology",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "telecommuting",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "teleworking",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "temporary job",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "terminate",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "term": "test (verb)",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "textile",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "the free market",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "the long tail",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "tip (noun)",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "tiring",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "tough",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "tourism",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "term": "trade union (BrE)",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "trademark",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "term": "train (verb)",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "training",
+      "units": [
+        4,
+        54
+      ],
+      "priority": 1
+    },
+    {
+      "term": "trial",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "try out",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "term": "turn down",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "term": "tycoon",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "term": "uninteresting",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "unskilled",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "term": "unstimulating",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "term": "user",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "vendor",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "term": "voluntary sector",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "volunteer",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "term": "VP (vice president) (AmE)",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "term": "wages",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "term": "walk-out",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "warehouse",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "term": "Wikinomics",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "term": "work",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "term": "worker",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "workforce",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "term": "working hours",
+      "units": [
+        2,
+        46
+      ],
+      "priority": 1
+    },
+    {
+      "term": "workshop",
+      "units": [
+        16,
+        60
+      ],
+      "priority": 1
+    },
+    {
+      "term": "(the) jobless",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "(the) sales",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "account",
+      "units": [
+        29,
+        31,
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "accountancy (BrE)",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "accountant",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "accounting",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "acquire",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "acquisition",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "administrator",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "advance",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "advertise",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "advertiser",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "ailing",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "alliance",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "amortization",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "amortize",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "annual",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "annual report",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "auction site",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "audit",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "auditor",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "axe (verb)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "backhander (BrE)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bad debt",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bail out",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "balance sheet",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "ban (verb)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bank",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bar (verb)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "barrier",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "basic",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bear market",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bearish",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "benefit",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bid",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "billing",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bleed red ink",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "blog",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "blue chip",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bond",
+      "units": [
+        32,
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "book value",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "book-keeper",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "boom",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "boom and bust",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "borrower",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "borrowing",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bottom line",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bottom out",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bottom-end",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bourse",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "branch",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "brand",
+      "units": [
+        22,
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "brand identity",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "brand image",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "branded",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "branding",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "break even",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bribe (noun)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bribery",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "broker",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "budget for",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "build up",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bull market",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "bullish",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "business year",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "capital market",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cash cow",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cash mountain",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cash pile",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cashflow",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cease trading",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "chain store",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "change hands",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "charge (noun)",
+      "units": [
+        30,
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "charge (verb)",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cheap",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "Chinese walls",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "close (noun)",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "close down",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "close up",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cold call",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "collapse (noun)",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "collapse (verb)",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "collateral",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "commodity",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "conglomerate",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "consolidation",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "contribution",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "core activities",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "corrupt (adj)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "corruption",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "costing",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "costings",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "costs",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "counterfeit",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "counterfeiting",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "crash (noun)",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "credit card",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "credit crunch",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "credit policy",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "creditor (BrE)",
+      "units": [
+        29,
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "currency",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "current assets",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "cut (verb)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "dealer",
+      "units": [
+        24,
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "debenture",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "debt",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "debt burden",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "debt crisis",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "debt default",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "debt servicing",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "debtor (BrE)",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "decline (noun)",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "demand (noun)",
+      "units": [
+        37,
+        39,
+        43
+      ],
+      "priority": 2
+    },
+    {
+      "term": "demerge",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "depreciate",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "depreciation",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "depression",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "derivative",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "direct costs",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "direct mail",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "discounter",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "discounting",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "dispatch (verb)",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "disposal",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "distribute",
+      "units": [
+        21,
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "distributor",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "dive (verb)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "diversify into",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "divest",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "divestment",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "dividend",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "dot-com bust",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "downmarket (BrE)",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "downscale (AmE)",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "e-procurement",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "earnings",
+      "units": [
+        31,
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "ease",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "economic",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "economical",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "economics",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "embezzle",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "embezzlement",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "entry-level",
+      "units": [
+        23,
+        54
+      ],
+      "priority": 2
+    },
+    {
+      "term": "equity",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "exclusive",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "expenditure",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "expenses",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "expensive",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "export (noun)",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fake (noun)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fake (verb)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fall (noun)",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "feature (noun)",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fend off",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "finance (noun)",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "finances",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "financial",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fine (verb)",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fiscal year",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fixed assets",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fixed costs",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "float",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "flotation",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "forex",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "forge",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "forgery",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "franchise",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "franchisee",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "franchisor",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fraud",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "fraud squad",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "free gift",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "free sample",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "friendly bid",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "gain",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "gearing (BrE)",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "generics",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "go bust",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "go public",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "going concern",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "goods)",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "goodwill",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "gross margin",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "gross profit",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "growth",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "growth rate",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "high finance",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "high turnover",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "high-end",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "high-priced",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "highest bidder",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "highly geared",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "hold shares",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "host",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "hostile bid",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "hypermarket",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "identity theft",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "import (noun)",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "in the black",
+      "units": [
+        31,
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "in the red",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "indebtedness",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "index",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "indirect costs",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "inflation",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "inflation rate",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "inflationary",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "insider dealing",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "insider trading",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "insolvent",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "interest",
+      "units": [
+        32,
+        35,
+        53
+      ],
+      "priority": 2
+    },
+    {
+      "term": "interest rate",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "internet seller",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "internet selling",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "investment",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "investor",
+      "units": [
+        32,
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "invoice (noun)",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "invoicing",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "issue (verb)",
+      "units": [
+        32,
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "joint account",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "joint venture",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "jump (verb)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "junk mail",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "key account",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "kickback",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "leap (verb)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "lender",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "lending",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "level",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "level off",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "level out",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "leverage",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "liabilities",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "life insurance",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "list",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "list price",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "loan capital",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "loss-leader",
+      "units": [
+        23,
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "loss-making",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "low (noun)",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "low pricing",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "low-end",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "low-priced",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "loyalty card",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mailing",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mailshot",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "majority stake",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "make (noun)",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "make a loss",
+      "units": [
+        28,
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "make a profit",
+      "units": [
+        28,
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mall",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mark-up",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "market abuse",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "market rigging",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "market-driven",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "market-led",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "marketeer",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "marketer",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "marketing",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mass market",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "medium (noun)",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "merge",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "merger",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mid-priced",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mid-range",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "middleman",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "minority stake",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "money spinner",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "mortgage",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "narrow (verb)",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "net margin",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "net profit",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "niche",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "non-core assets",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "online banking",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "online dating",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "online gaming",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "online selling",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "online travel",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "open",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "order (verb)",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "over budget",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "overdraft",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "overhead costs",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "overheads",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "overleveraged",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "overspend",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "packaging",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "panic selling",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "pay off",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "pay out",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "payables (AmE)",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "payment terms",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "peak",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "pension fund",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "place",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "place an order",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "plan",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "plastic",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "plummet",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "point (noun)",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "poison pill",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "pre-tax loss",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "pre-tax profit",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "predator",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "premium (adj)",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "prey",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "price",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "price boom",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "price cut",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "price fixing",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "price hike",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "price tag",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "price war",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "principal",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "prison",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "prize",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "product line",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "product mix",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "product range",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "profit margin",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "profit-making",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "profitable",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "promote",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "put up money",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "quarter",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "racket",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "racketeer",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "raise capital",
+      "units": [
+        32,
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "rally",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "receivables (AmE)",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "receiver",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "recession",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "record high",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "recover",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "red ink",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "refocus",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "regulate",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "report",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "report results",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "rescue",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "reseller",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "reserves",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "results",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "term": "retail outlet",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "revenue",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales area",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales director",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales figures",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales force",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales forecast",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales growth",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales manager",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales meeting",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales outlet",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales team",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales territory",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sales volume",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "salesman",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "salesperson",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "saleswoman",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "saver",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "scam",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "securities",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "security",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sell-off",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "selling price",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "settle an invoice",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "share",
+      "units": [
+        32,
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "share capital",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "term": "share price",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "ship (verb)",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "shop (noun) (BrE)",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "shopping centre",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "shopping mall",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sick",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "skyrocket (verb)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "slash (verb)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sleaze",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "slump (noun)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "small investor",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "soar",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sophisticated",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "special offer",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "speculator",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "spend",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sponsor (verb)",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sponsorship",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "term": "stable (adj)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "stagflation",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "stagnation",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "stake",
+      "units": [
+        32,
+        41
+      ],
+      "priority": 2
+    },
+    {
+      "term": "state pension",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "steady (adj)",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "stock",
+      "units": [
+        32,
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "stock market",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "store (noun) (AmE)",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "store brand (AmE)",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "term": "subsidiary",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "supermarket",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "surge",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "sweetener",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "takeover",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "takeover bid",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "target (noun)",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "target (verb)",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "telemarketing",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "term": "the City",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "the four Ps",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "term": "the Square Mile",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "top-end",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "total costs",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trade balance",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trade credit",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trade deficit",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trade down",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trade gap",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trade surplus",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trade up",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trader",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trading",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "transaction",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "troubled",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "trough",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "term": "turn round",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "turnover (BrE)",
+      "units": [
+        27,
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "under budget",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "undercut",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "underspend",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "term": "uneconomic",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "uneconomical",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "unemployment",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "unit sales",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "unit trust (BrE)",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "upfront",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "term": "upmarket (BrE)",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "term": "variable costs",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "term": "video-sharing",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "Wall Street",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "term": "Web 2.0",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "term": "white knight",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "term": "widen",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "term": "wind up",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "term": "windfall",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "term": "wipe off",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "term": "write down",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "write off (verb)",
+      "units": [
+        29,
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "write-off (noun)",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "term": "wrongdoer",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "wrongdoing",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "term": "(BrE)",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "absurd",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "term": "accessible",
+      "units": [
+        44,
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "achievement",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "action point",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "address book",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "agenda",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "agree",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "term": "agree about",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "term": "agree on",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "term": "agreement",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "term": "All the best",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "allocate",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "apprentice",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "apprenticeship",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "approachable",
+      "units": [
+        44,
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "arbitration",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "arbitrator",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "area code",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "as long as",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "as you will see",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "attach",
+      "units": [
+        51,
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "attached",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "attached CV",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "attachment",
+      "units": [
+        51,
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "authoritarian",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "available",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bank holiday",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bargain (noun)",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bargain (verb)",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bargainer",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bargaining chip",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bargaining ploy",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bargaining tool",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bcc",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "be in touch",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "belief",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "Best",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "Best regards",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "Best wishes",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bilingual",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "binding",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "board meeting",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "body language",
+      "units": [
+        64
+      ],
+      "priority": 3
+    },
+    {
+      "term": "booking (BrE)",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "bookings line (BrE)",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "born leader",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "brainstorming",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "breach",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "break down",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "breakdown",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "burn out",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "business card",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "business culture",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "busy",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "calendar (AmE)",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "call (verb)",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "call back",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "carbon offset",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "career goal",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "cc",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "cellphone (AmE)",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "chair (noun)",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "chair a meeting",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "chairperson",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "challenging",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "charisma",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "charismatic",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "chat (noun)",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "child labour",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "circulate",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "clearly",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "clinch a deal",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "close a deal",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "code of ethics",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "collectivism",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "collectivist",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "completion",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "compromise",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "term": "concede",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "concise",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "confident look",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "confidential",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "connection",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "consensual",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "consensus",
+      "units": [
+        44,
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "term": "consultation",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "contract (noun)",
+      "units": [
+        63,
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "copy in on",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "cordless",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "cordless phone",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "cost",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "counter-offer",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "country code",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "courier",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "cover",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "term": "cover an item",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "cover email",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "creativity",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "culture",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "deadlock",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "deal (noun)",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "Dear",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "decentralized",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "deference",
+      "units": [
+        45,
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "delay",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "delayering",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "delegate (verb)",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "delegation",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "delete",
+      "units": [
+        48,
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "deliver",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "diary (BrE)",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "digression",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "direct line",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "disagree",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "term": "distance",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "distant",
+      "units": [
+        44,
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "distraction",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "DoB (date of birth)",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "don’t hesitate",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "downshifter",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "downshifting",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "downtime",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "dress (verb)",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "drive (noun)",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "dynamism",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "email",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "email address",
+      "units": [
+        51,
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "empowerment",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "energy",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "enthusiastic",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "ethical",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "etiquette",
+      "units": [
+        51,
+        64
+      ],
+      "priority": 3
+    },
+    {
+      "term": "event",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "exaggeration",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "exploit",
+      "units": [
+        41,
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "exploitation",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "extension",
+      "units": [
+        47,
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "eye contact",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "fair point",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "familiar",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "family name",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "feel",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "field",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "finish on time",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "first name",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "first thing",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "fix a meeting",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "flipchart",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "form of address",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "formality",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "forward",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "fwd",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "Gantt chart",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "gesture",
+      "units": [
+        46,
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "go along with",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "term": "good organizer",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "goodbye",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "graduate (verb)",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "green issues",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "greeting",
+      "units": [
+        46,
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "handout",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "hang up",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "harmony",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "helpline",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "hierarchical",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "hierarchy",
+      "units": [
+        51,
+        64
+      ],
+      "priority": 3
+    },
+    {
+      "term": "hold (verb)",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "holding",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "holiday (BrE)",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "horse-trading",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "hotline",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "human rights",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "humour (noun) (BrE)",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "I am available",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "idea",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "impasse",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "impose",
+      "units": [
+        44,
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "inbox",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "individualism",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "individualist",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "initiative",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "interested in",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "interesting",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "intern",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "interrupt",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "term": "interruption",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "involved",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "job placement",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "job title",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "key area",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "term": "keyword",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "kick off",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "term": "landline",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "laptop",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "last name",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "latecomer",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "layout",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "lead time",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "leadership",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "learn from",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "learning culture",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "leave a message",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "lifestyle",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "line",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "loud enough",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "loyalty",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "lunch break",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "macho culture",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "make up time",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "mannerism",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "marker",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "mediation",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "mediator",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "meeting)",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "menial",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "microphone",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "middle initial",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "minute-taker",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "miss a meeting",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "mistaken",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "term": "moral issues",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "move on",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "term": "negotiate",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "negotiations",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "negotiator",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "note",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "number",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "objective",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "term": "obviously",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "term": "of course",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "term": "offer (noun)",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "on schedule",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "organize",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "overlap (verb)",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "overwhelmed",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "overwork",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "paid internship",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "pay bargaining",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "payphone",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "penalty",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "perfectionism",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "phase",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "phone",
+      "units": [
+        46,
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "phone number",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "phonecard",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "pick up",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "postal address",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "power–distance",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "present (noun)",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "presenteeism",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "presenter",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "pressure",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "prioritize",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "priority",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "probe (verb)",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "productive",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "professional",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "project (noun)",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "projector",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "proposal",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "provided that",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "providing that",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "punctuality",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "purpose",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "term": "put back",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "put off",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "put through",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "quality",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "quality of life",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "quality time",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "questioner",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "ramble (verb)",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "range of tasks",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "rapport",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "rat race",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "realistic plan",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "rebalancing",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "Regards",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "related to",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "term": "relaxed look",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "relocate",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "term": "remote",
+      "units": [
+        44,
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "reply (noun)",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "reply to all",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "reservation",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "resolution",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "resolve",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "respect",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "responsibility)",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "rewarding",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "ridiculous",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "term": "right now",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "term": "ring (up) (BrE)",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "role of silence",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "run a meeting",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "run in parallel",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "run out of time",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "term": "sales culture",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "schedule (noun)",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "scope",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "screen",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "sell your stake",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "seminar",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "settle a dispute",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "settlement",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "show off",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "simultaneous",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "Skype",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "slide",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "smartphone",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "smiling",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "term": "snowed under",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "term": "social issues",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "speed",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "stage",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "stakeholder",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "stalemate",
+      "units": [
+        66
+      ],
+      "priority": 3
+    },
+    {
+      "term": "standpoint",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "term": "step",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "stereotype",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "stress (noun)",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "stress-induced",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "stressful",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "stretched",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "structure",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "subject",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "term": "subordinate",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "sum up",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "term": "supposing that",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "surname",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "term": "tactfully",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "task",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "team meeting",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "team of equals",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "telephone",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "text (noun)",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "text message",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "time",
+      "units": [
+        42,
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "timeframe",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "timescale",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "timetable",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "term": "tone",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "term": "tone of voice",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "top-down",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "trade dispute",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "term": "trade-off",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "trainee",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "traineeship",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "transparency",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "term": "treadmill",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "trust",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "turn to",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "term": "under stress",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "unethical",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "unpaid",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "term": "unprofessional",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "term": "unstressful",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "term": "vacation (AmE)",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "term": "values",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "term": "variety",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "venue",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "term": "vision",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "visionary",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "term": "visual aid",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "voicemail",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "VoIP",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "waste of time",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "term": "webcam",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "term": "whiteboard",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "term": "win-win",
+      "units": [
+        65
+      ],
+      "priority": 3
+    },
+    {
+      "term": "Yours",
+      "units": [
+        52
+      ],
+      "priority": 3
+    }
+  ]
+}
