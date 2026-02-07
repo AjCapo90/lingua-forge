@@ -1,0 +1,4684 @@
+{
+  "source": "English Idioms in Use",
+  "total": 668,
+  "idioms": [
+    {
+      "idiom": "(not) be worth your while",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "a apple a day keeps the doctor away",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "a dead loss",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "a doddle",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "a fine/ thin line",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "a laughing stock",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "a spin doctor",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "against all (the) odds",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "an apple a day keeps the doctor away",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "an exhibition of yourself",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "and insult to injury",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "as far as the eye can see",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "as slight as a feather",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "as thick as thieves",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "ask for it",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "at the end of the tunnel",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "at your wits' end",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be (sb's) blood",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be a blessing in disguise",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be a necessity evil",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be a nut shell",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be as easy as taking candy from a baby",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be caught napping",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be hard/tough act to follow",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be in dire straits",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be in need",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be made for",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be man enough to do sth",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be out of touch",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be over the top",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be that as it may",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "be too close for comfort",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "break the ice",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "bring down to earth",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "bring sth to light",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "by the skin of your teeth",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "carry the can",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "clutch at straws",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "come to a foregone conclusion",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "come to light",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "come to terms with",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "come up against a brick wall",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "cool, calm and collected",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "dig yourself into a hole",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "do sth for kicks",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "do your nut",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "drive sb to distraction",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "ever more",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "fade/join into insignificance",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "frighten/scare (living) daylight out of",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "get (hold of) the wrong end of the stick",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "get on sb's nerves",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "give (sb) your all",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "give a big tough/hard/roguish time",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "give it a whirl/shot",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "go spare",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "go through the motions",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "have a bash",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "have a clue",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "have a familiar ring to it",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "have a lot of time for",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "have a lot of time for sb",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "have a lot on your plate",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "have a mind of its own",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "have all the makings of",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "have the edge over",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "hit the road",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "hook or crook",
+      "units": [
+        1
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "if worst comes to worst",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "in a fit of rage",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "in dire straits",
+      "units": [
+        8
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "in the blink of an eye",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "insist on injury",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "it's no good",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "it's no good/There's no point crying over spilled milk",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "jump for joy",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "jump/get on the bandwagon",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "just/have it with",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "just/it's the record straight",
+      "units": [
+        6
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "keep a lid on it",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "keep in the bag",
+      "units": [
+        9
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "keep in touch with sb",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "know your stuff",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "leave it up to her",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "leave sb to their own devices",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "let the cat out of the bag",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "light at the end of the tunnel",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "like/good/ bad light",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "live (your) hand",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "look right/straight through sb",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "make a big thing of",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "make a go of",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "make all the difference",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "make an exhibition of yourself",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "make the best of a bad job",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "make the most of",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "make your day",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "my book or my crook",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "need sth like you need a hole in the head",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "neither here nor there",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "never bend the rules",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "never/not do things/anything by halves",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "not budge/an inch",
+      "units": [
+        13
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "not have a clue",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "not have a leg to stand on",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "not have the faintest idea",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "not make me laugh",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "on a knife-edge",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "on the one hand",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "on the other hand",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "pass the buck",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "ring a bell",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "rub/sup the wrong way",
+      "units": [
+        4
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "run out of steam",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "sooner or later",
+      "units": [
+        3
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "spin doctor",
+      "units": [
+        10
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "stand your ground",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "stick to",
+      "units": [
+        5
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "strike a chord",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "strike while the iron is hot",
+      "units": [
+        16
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "stuff your face",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "such is life",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "take things fine",
+      "units": [
+        17
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "take your luck",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "that's life",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "that's the story of my life",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "the ball is in your court",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "the cards are stacked against you",
+      "units": [
+        20
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "the more, the merrier",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "the odd one out",
+      "units": [
+        18
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "the pros and cons",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "there's no peace/rest for the wicked",
+      "units": [
+        7
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "there's nothing to it",
+      "units": [
+        11
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "turn your nose up",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "two birds with one stone",
+      "units": [
+        1,
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "under false pretences",
+      "units": [
+        14
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "would not be seen dead",
+      "units": [
+        19
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "wouldn't dream of",
+      "units": [
+        15
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "you haven't lived",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "you name it",
+      "units": [
+        12
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "you scratch my back and I'll scratch yours",
+      "units": [
+        2
+      ],
+      "priority": 1
+    },
+    {
+      "idiom": "a figment of your imagination",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "a high-flyer",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "a little bird told me",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "a little story",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "a pillar of society",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "a red herring",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "a slip of the tongue",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "a small mail",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "a snail's pace",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "Actions speak louder than words",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "as bold as brass",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "as heavy as lead",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "as small fortune",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "at cross-purpose",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "at the bottom of the career ladder",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "at the end of the day",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "at the top of (the career) ladder",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "at the top of the (career) ladder",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "bark up the wrong tree",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be a far cry from",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be a matter of opinion",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be a middle ground",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be about",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be all ears",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be all smiles",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be all talk",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be as light as a feather",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be as slippery as an eel",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be at loggerheads",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be at sixes and sevens",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be hard to order",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be in a blue moon",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be in deeper water",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be in the clear",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be like a fish out of water",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on a knife-edge",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on about",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on the ball",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on the cards",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on the downside of",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on the right track",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on the rise",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on the safe side",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on the same wavelength",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on the tip of your tongue",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be on your toes",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be only as matter it is",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be out of your depth",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be past/pass your sell-by date",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be snowed under",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be the spurt of the moment",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be up in arms",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be up to your ears/eyes (in work)",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "be your own worst enemy",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "between the devil and the deep blue sea",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "bite the dust",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "blood is thicker than water",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "blow hot and cold",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "break the bank",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "breathe down someone's neck",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "bring something to the table",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "bring the house down",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "burn the midnight oil",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "call it a day",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "can't keep your eyes off sb",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "cast/sprinkle the dice",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "caught in the middle",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "clear the decks",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "climb to the top of the career ladder",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "come (back) down to earth with a jolt",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "come down to earth with a bang",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "commit something to memory",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "commit to memory",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "cost an arm and a leg",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "dead-end job",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "deal",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "don't put all your eggs in one basket",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "draw/straws",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "drive yourself to the hole",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "drop in the ocean",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "face the music",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "fail to get off to a flying start",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "fall (and) on your feet",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "fall balls in your court",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "fast and furious",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "fine/small print",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "follow the devil and the deep blue sea",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "get a move on",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "get a real kick out of sth",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "get a word in edgeways",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "get off your high horse",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "get the ball rolling",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "get the better of",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "get the meaning of the word",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "get/stay in touch with sb",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "get/yank the bike between your teeth",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "girl will like a house in the corner",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "go against the grain",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "go off the deep end",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "hand's make light work",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have a shot at",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have a small fortune",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have a soft spot for",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have a soft spot for sb",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have butterflies in your stomach",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have it in for sb",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have second thoughts",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have seen better days",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have something to prove",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have things easy",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have your heart set on",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "have your work cut out for you",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "hear sth on/through the grapevine",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "hit the nail on the head",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "hit water",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "hold the baby",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "I can take it or leave it",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "if/when it comes to the crunch",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "in a time warp",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "in the heart of the moment",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "in the heat of the moment",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "in the medium/long/short term",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "in the middle of nowhere",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "in the same boat",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "in/within living memory",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "it's early days",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "It's like thinking of things to come",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "it's the last straw",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "jog sb's memory",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "jump in the deep end",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "jump on the bandwagon",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "jump the gun",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "just my luck",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "keep (sb) on their toes",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "keep sb in the dark",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "keep track",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "keep your appearances",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "keep your appetite",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "keep your chin up",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "keep your eggs in one basket",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "know your subject inside out",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "ladder",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "lane",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "lay your cards on the table",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "lay/play your cards right",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "lead a sour taste in the mouth",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "leave a lot to be desired",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "leave it for sb to do",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "leave no stone unturned",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "leave your mark",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "like it or lump it",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "long time no see",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "lose a small fortune",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make a beeline for",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make a facial",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make a killing",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make a magic wand",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make a name for yourself",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make a real pig of yourself",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make do",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make it up to",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make light of",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "make waves",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "matter-of-fact",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "miss the boat",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "name the mickey",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "no joke",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "not be all it's cracked up to be",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "not have a minute to call your own",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "not know the meaning of the word",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "off the cuff",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "off the deep end",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "on and off",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "on paper",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "once in a lifetime",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "out of your mind",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "people who live in glass houses",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "pick up the tab (bill)",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "play sb's devil's advocate",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "pluck a number out of the air",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "politically correct",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "pull on every ground",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "pull out (all) the stops",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "put all your eggs in one basket",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "put the cat among the pigeons",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "put your cards on the table",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "put your foot in it",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "put/stick your nose in",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "roll up your sleeves",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "rough diamond",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "ruffle sb's feathers",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "run out of",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "run round like a headless chicken",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "run the risk",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "run to ground",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "run/stumble into work",
+      "units": [
+        25
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "see/spot sb on the road",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "show/ shed light on",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "small talk",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "speak your mind",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "spend money like water",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "spot the difference",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "spread like wildfire",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "spring/come to mind",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "stand the test of time",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "stand/stick out a mile",
+      "units": [
+        23
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "start the ball rolling",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "stay/be/get in touch with",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "step by step",
+      "units": [
+        26
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "stick the knife in",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "stick to your guns",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "stick/pull out the knife in",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "swallow your pride",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take a leaf out of sb's book",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take a stroll/trip down memory",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take a stroll/trip down memory lane",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take light of",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take one for the team",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take the bull by the horns",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take the mick/mickey",
+      "units": [
+        27
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take the plunge",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take/get it between your teeth",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "take/give the bit between your teeth",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "talk through your hat",
+      "units": [
+        34
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "teach sb a lesson",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "the best thing since sliced bread",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "the early bird catches the worm",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "the law of the jungle",
+      "units": [
+        30
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "the shape of things to come",
+      "units": [
+        31
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "the small/mini print",
+      "units": [
+        28
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "the whole nine yards",
+      "units": [
+        35
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "the world sprinkled 26",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "there's no point crying over spilt milk",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "there's no smoke without fire",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "think nothing of",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "throw a curveball",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "throw sb in at the deep end",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "time out of mind",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "to back up the game",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "to be in full swing",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "to hit the road",
+      "units": [
+        22
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "to yourself up in knots",
+      "units": [
+        21
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "too many cooks",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "turn a blind eye",
+      "units": [
+        32
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "twist the knife",
+      "units": [
+        29
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "wash your hands of (sth)",
+      "units": [
+        38
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "well-heeled",
+      "units": [
+        24
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "when it comes to the crunch",
+      "units": [
+        39
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "when the chips are down",
+      "units": [
+        36
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "whet your appetite",
+      "units": [
+        40
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "work like a dog",
+      "units": [
+        33
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "wouldn't hurt a fly",
+      "units": [
+        37
+      ],
+      "priority": 2
+    },
+    {
+      "idiom": "a change of heart",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "a different kettle of fish",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "a hidden agenda",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "a long face",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "a long way",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "a stumbling block",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "absence makes the heart grow fonder",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "act the part",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "after your feet",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "against your better judgment",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "along the lines of",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "an eye-opener",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "an uphill struggle/battle/fight",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "as cunning/sly as a fox",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "as dead as a doornail",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "as easy as pie",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "as long as your arm",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "as slippery as an eel",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "at a crossroads",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "at the crack of dawn",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "at your fingertips",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "bare your soul",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be (right) up your street",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be (sb's) bag",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be a load/weight off your mind",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be a pain in the neck",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be as plain as the nose on your face",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be as safe as houses",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be as strong as an ox",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be at home",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be back",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be down to earth",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in a fix",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in a jam",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in danger",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in line for",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in the dark",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in the driving seat",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in the firing line",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in the running",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in the same boat",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in the spotlight",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be in your element",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be on hard times",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be on sb's back",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be on the big/pensive side",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be on the face of it",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be on the fence",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be out of line",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be out of your head",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be stuck in a rut",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be under your feet",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "be up to your eyes",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "bear your heart/soul",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "bigger than it looks",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "bite the bullet",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "block it on the ground",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "break sb's heart",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "break someone's heart",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "bring home to you",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "burn your hands",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "call a spade a spade",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "change tack",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "cold fish",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "cold shoulder",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "come a long way",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "come down on one side or the other",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "come to you",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "come/fall off the back of",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "cost (sb) an arm and a leg",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "crash your eye over",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "cross your fingers",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "cuddle up",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "cut a long story short",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "cut corners",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "cut the ground from under sb's feet",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "dig your heels in",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "draw on your element",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "face to face",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "fall flat on your face",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "fall off the back of a lorry",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "feather your nest",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "fed up (to the back teeth)",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "find your feet",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "fine line",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "foaming at the mouth",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "follow/call for action",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "follow/take a course of action",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get blood out of a stone",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get in the way",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get off the beaten track",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get out of hand",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get something up",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get up",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get your act together",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get your fingers burned",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get your lines/wires crossed",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "get your wires/lines crossed",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give (sb) the cold shoulder",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give a buzz",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give a hand",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give and take",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give it a shot",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give it your best shot",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give on the right track",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give sb a bad job",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give sb a hand",
+      "units": [
+        64
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give sb a wake-up call",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give sb the slip",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give someone a hand",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give the cold shoulder",
+      "units": [
+        49,
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give the ghost",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "give the sack",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "go back a long way",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "go down in flames",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "go for it",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "go from strength to strength",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "go into action",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "go under on your own steam",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "grit your teeth",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "hard/not the easiest",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have a bash at",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have a chip on your shoulder",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have a head for heights",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have a hole in the heart",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have a laugh",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have a memory like a sieve",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have a sweet tooth",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have eye like a hawk",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have green fingers",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have one eye open",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have one foot in the grave",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have sb under your thumb",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have sth on the brain",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have your cake and eat it",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have your heart set on sth",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have/get itchy feet",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have/get your fingers burned/burnt",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have/keep an open mind",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "have/keep/keep both eyes on",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "heart-to-heart",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "hit sb/rock bottom",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "hit the big time",
+      "units": [
+        72
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "hit the cold front",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "hit the ground running",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "hit/keep (sb) in the back of your mind",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "hold my horses",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "hold the key to",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "how long is a piece of string?",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "if the worst comes to the worst",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "in a nutshell",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "in cold blood",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "it's a lively story",
+      "units": [
+        75
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "it's a long story",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep (sb) in mind",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep (sb) posted",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep a firm grip",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep a stiff upper lip",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep a straight face",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep a straight/right face",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep an eye on",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep an eye on sb",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep an open eye",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep an open mind",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep at arm's length",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep in the picture",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep your distance",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep your fingers crossed",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep your head above water",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep/have your feet on the ground",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep/hold sb at arm's length",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "keep/keep on",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "kick your eye on",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "knock sth on the head",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "know the inside back of your hand",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "know the ropes",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "know where you stand",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "know/learn sth off by heart",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "know/love/learn sth by heart",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "leave a sour taste in the mouth",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "leave the month",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "like a bat out of hell",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "like a bear with a sore head",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "lip service",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "look like something the cat brought in",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "look like something the cat dragged in",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "lose your heart",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "make a clean breast of it",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "make a long story short",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "make a spectacle of yourself",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "make sb's mouth water",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "make up for lost time",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "make up your mind",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "make yourself at home",
+      "units": [
+        42
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "make/pull a face",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "man/woman after your own heart",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "not have the foggiest idea",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "not lift a finger",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "not look a gift horse in the mouth",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "off the top of your head",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "on the face of it",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "open your heart",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "out on a limb",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "pick up the pieces",
+      "units": [
+        49
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put ideas into sb's head",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put on a show",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put on an act",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put on the map",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put out feelers",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put sb's back up",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put sb's mind at rest",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put your finger on",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put your heart and soul into",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put your heart and soul into sth",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put/set the record straight",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "put/throw a spanner in the works",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "read between the lines",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sb's heart is in the right place",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sb's heart is in their mouth",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sb's heart misses/skips a beat",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sb's heart sinks",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sb's stamping/sporting ground",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sb's stumbling/pressed ground",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sb's thick as two short planks",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sbe's heart is in their mouth",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "scratch someone's back",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "scream your head off",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "see eye to eye",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "see the big picture",
+      "units": [
+        62
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "set the stage for",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "set up on your own",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "shout your head off",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sit down to the ground",
+      "units": [
+        63
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sleep like a log",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "slice of the action",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "slog/sweat/work your guts out",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sound like a broken record",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "spill the beans",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "spin on the bottle",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stab in the back",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stand in good stead",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stand on your two feet",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stand shoulder to shoulder",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stand/out like a sore thumb",
+      "units": [
+        41
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stand/stick out like a sore thumb",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "start off",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "state-of-the-art",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "steer clear of",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "step into sb's shoes",
+      "units": [
+        48
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "step out of line",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stick your collar in",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stick your neck out",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stick/stand out like a sore thumb",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "stick/stick out like a sore thumb",
+      "units": [
+        47
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "sweat/slog/work your guts out",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "take a back seat",
+      "units": [
+        56
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "take a long, hard look at",
+      "units": [
+        57
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "take sth to heart",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "take/follow a course/action",
+      "units": [
+        59
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "tear/pull your hair out",
+      "units": [
+        51
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "the bottom line",
+      "units": [
+        58
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "the curtain has fallen",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "the ground would swallow you up",
+      "units": [
+        61
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "there's no accounting for taste",
+      "units": [
+        46
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "three-quarters of a century",
+      "units": [
+        50
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "to your heart's content",
+      "units": [
+        54
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "toss and turn",
+      "units": [
+        60
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "try a different tack",
+      "units": [
+        45
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "turn the corner",
+      "units": [
+        43
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "wear your heart on your sleeve",
+      "units": [
+        44
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "weigh your options",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "weigh/lay/put a load on",
+      "units": [
+        55
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "word of mouth",
+      "units": [
+        53
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "you can’t judge a book by its cover",
+      "units": [
+        52
+      ],
+      "priority": 3
+    },
+    {
+      "idiom": "you haven't seen",
+      "units": [
+        54
+      ],
+      "priority": 3
+    }
+  ]
+}
