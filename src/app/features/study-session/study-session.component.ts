@@ -12,9 +12,11 @@ import { MatInputModule } from '@angular/material/input';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatButtonToggleModule } from '@angular/material/button-toggle';
 import { MatDialogModule, MatDialog } from '@angular/material/dialog';
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { ExerciseService, Exercise, ExerciseResult } from '../../core/services/exercise.service';
 import { AIEvaluatorService } from '../../core/services/ai-evaluator.service';
 import { SchedulerService } from '../../core/services/scheduler.service';
+import { VoiceService } from '../../core/services/voice.service';
 
 type SessionPhase = 'setup' | 'exercise' | 'feedback' | 'complete';
 
@@ -34,6 +36,7 @@ type SessionPhase = 'setup' | 'exercise' | 'feedback' | 'complete';
     MatChipsModule,
     MatButtonToggleModule,
     MatDialogModule,
+    MatProgressSpinnerModule,
   ],
   template: `
     <!-- SETUP PHASE -->
@@ -150,16 +153,29 @@ type SessionPhase = 'setup' | 'exercise' | 'feedback' | 'complete';
                     </mat-form-field>
                   }
                   
-                  <!-- Voice Input (placeholder) -->
+                  <!-- Voice Input -->
                   @if (inputMode === 'speak') {
                     <div class="voice-input">
-                      <button mat-fab color="warn" 
+                      <button mat-fab 
+                              [color]="isRecording() ? 'warn' : 'primary'" 
                               [class.recording]="isRecording()"
-                              (click)="toggleRecording()">
-                        <mat-icon>{{ isRecording() ? 'stop' : 'mic' }}</mat-icon>
+                              [class.transcribing]="isTranscribing()"
+                              (click)="toggleRecording()"
+                              [disabled]="isTranscribing()">
+                        @if (isTranscribing()) {
+                          <mat-icon>hourglass_empty</mat-icon>
+                        } @else {
+                          <mat-icon>{{ isRecording() ? 'stop' : 'mic' }}</mat-icon>
+                        }
                       </button>
                       <p class="voice-status">
-                        {{ isRecording() ? 'Recording... Click to stop' : 'Click to start speaking' }}
+                        @if (isTranscribing()) {
+                          ⏳ Transcribing...
+                        } @else if (isRecording()) {
+                          🔴 Recording... Click to stop
+                        } @else {
+                          🎤 Click to start speaking
+                        }
                       </p>
                       @if (userAnswer) {
                         <div class="transcript">
@@ -487,10 +503,19 @@ type SessionPhase = 'setup' | 'exercise' | 'feedback' | 'complete';
       animation: pulse 1s infinite;
     }
     
+    .voice-input button.transcribing {
+      animation: spin 1s infinite linear;
+    }
+    
     @keyframes pulse {
       0% { transform: scale(1); }
       50% { transform: scale(1.1); }
       100% { transform: scale(1); }
+    }
+    
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
     }
     
     .voice-status {
@@ -725,6 +750,7 @@ export class StudySessionComponent implements OnInit, OnDestroy {
   private exerciseService = inject(ExerciseService);
   private evaluator = inject(AIEvaluatorService);
   private scheduler = inject(SchedulerService);
+  private voiceService = inject(VoiceService);
   
   // Session State
   phase = signal<SessionPhase>('setup');
@@ -738,6 +764,7 @@ export class StudySessionComponent implements OnInit, OnDestroy {
   userAnswer = '';
   isSubmitting = signal(false);
   isRecording = signal(false);
+  isTranscribing = computed(() => this.voiceService.isTranscribing());
   
   // Timer
   elapsedSeconds = signal(0);
@@ -859,16 +886,26 @@ export class StudySessionComponent implements OnInit, OnDestroy {
     }
   }
 
-  toggleRecording() {
-    // TODO: Implement actual voice recording with Deepgram
-    this.isRecording.update(r => !r);
-    
+  async toggleRecording() {
     if (this.isRecording()) {
-      // Start recording simulation
-      setTimeout(() => {
-        this.userAnswer = "This is a simulated transcription. Voice recording coming soon!";
+      // Stop recording and get transcript
+      try {
+        const result = await this.voiceService.stopRecording();
+        this.userAnswer = result.text;
         this.isRecording.set(false);
-      }, 3000);
+      } catch (error: any) {
+        console.error('Recording error:', error);
+        this.isRecording.set(false);
+      }
+    } else {
+      // Start recording
+      try {
+        await this.voiceService.startRecording();
+        this.isRecording.set(true);
+      } catch (error: any) {
+        console.error('Microphone error:', error);
+        alert('Could not access microphone. Please allow microphone permission.');
+      }
     }
   }
 
